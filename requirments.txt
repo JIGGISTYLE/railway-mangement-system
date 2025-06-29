@@ -1,0 +1,10 @@
+#random
+streamlit
+qrcode
+#os
+tempfile
+fpdf
+datetime
+io
+math
+pytest

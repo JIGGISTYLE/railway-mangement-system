@@ -63,27 +63,28 @@ cities = {
 }
 
 train_details = {
-    8375: "Shatabdi Express",
-    1234: "Rajdhani Express",
-    5678: "Duronto Express",
-    9101: "Garib Rath",
-    1122: "Tejas Express",
-    2246: "Humsafar Express",
-    3821: "Sampark Kranti Express",
-    4812: "Yuva Express",
-    6745: "Jan Shatabdi Express",
-    9987: "Maharaja Express",
-    2354: "Vande Bharat Express",
-    5698: "Mahamana Express",
-    4785: "Gatiman Express",
-    1256: "Antyodaya Express",
-    9865: "Double Decker Express",
-    3142: "Intercity Express",
-    7531: "Suvidha Express",
-    8524: "Vivek Express",
-    2698: "Kavi Guru Express",
-    5423: "Rajya Rani Express"
+    12001: "Shatabdi Express",
+    12301: "Rajdhani Express",
+    12245: "Duronto Express",
+    12909: "Garib Rath",
+    22119: "Tejas Express",
+    22465: "Humsafar Express",
+    12649: "Sampark Kranti Express",
+    12249: "Yuva Express",
+    12051: "Jan Shatabdi Express",
+    12495: "Maharaja Express",
+    22435: "Vande Bharat Express",
+    22418: "Mahamana Express",
+    12049: "Gatiman Express",
+    22877: "Antyodaya Express",
+    12931: "Double Decker Express",
+    12425: "Intercity Express",
+    82901: "Suvidha Express",
+    15905: "Vivek Express",
+    12941: "Kavi Guru Express",
+    12567: "Rajya Rani Express"
 }
+
 
 
 class_cost_per_km = {
@@ -105,8 +106,8 @@ class_details = {
 
 
 food_menu = {
-    "Veg Meal": 150,
-    "Non-Veg Meal": 200,
+    "Veg Thali": 150,
+    "Non-Veg Thali": 200,
     "Snacks": 50,
     "Drinks": 30,
     "water bottle": 15
